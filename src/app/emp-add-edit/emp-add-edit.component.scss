@@ -1,0 +1,23 @@
+.content{
+    padding-top: 8px;
+    width: 400px;
+    height: 300px;
+    
+
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.action{
+    padding: 0px 25px 20px;
+    button {
+        flex: 1;
+    }
+}

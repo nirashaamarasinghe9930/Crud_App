@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "name": "Shan 4",
+      "designation": "Software Developer",
+      "salary": 250000,
+      "id": 7
+    },
+    {
+      "name": "Dew",
+      "designation": "Account Assistant",
+      "salary": 30000,
+      "id": 8
+    },
+    {
+      "name": "Thomas",
+      "designation": "Account Executive",
+      "salary": 75000,
+      "id": 9
+    },
+    {
+      "name": "Neha",
+      "designation": "HR Manager",
+      "salary": 100000,
+      "id": 10
+    },
+    {
+      "name": " Shehan Deepal",
+      "designation": "IT Assistant",
+      "salary": 50000,
+      "id": 11
+    },
+    {
+      "name": "Lara",
+      "designation": "Transport Manager",
+      "salary": 150000,
+      "id": 12
+    },
+    {
+      "name": "Steve",
+      "designation": "Developer",
+      "salary": 250000,
+      "id": 13
+    }
+  ]
+}
